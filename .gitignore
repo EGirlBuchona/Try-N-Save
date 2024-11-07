@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Archivos de configuración sensibles
+*.env
+config.json
+
+# Archivos temporales de desarrollo
+__pycache__/
+*.pyc
+
+# Archivos de dependencias de Node.js
+node_modules/
+
+# Archivos de bases de datos locales
+db.sqlite3
